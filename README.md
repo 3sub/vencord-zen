@@ -1,2 +1,1 @@
-# vencord-zen
-vencord-zen
+# vencord
